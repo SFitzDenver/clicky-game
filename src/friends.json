@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Sheldon",
+    "image": "https://media1.giphy.com/media/1FMaabePDEfgk/200w.webp",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Leonard",
+    "image": "https://media1.giphy.com/media/Dh2zQUsG1fMsw/200w.webp",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Penny",
+    "image": "https://media2.giphy.com/media/zrkRjS8TETt6M/200w.webp",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Amy",
+    "image": "https://media2.giphy.com/media/13GjjWHGcca0Fy/200w.webp",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Howard",
+    "image": "https://media0.giphy.com/media/KAS81mpeo9kkw/200w.webp",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Raj",
+    "image": "https://media3.giphy.com/media/3osxYdek8wYWCOLgT6/200w.webp",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Bernadette",
+    "image": "https://media0.giphy.com/media/CmesmldgxE0a4/200w.webp",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Beveryly",
+    "image": "https://media3.giphy.com/media/VxprUc6VrSD8k/200w.webp",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Stuart",
+    "image": "https://media1.giphy.com/media/xh5YPL5iJ6mHu/200w.webp",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Guy",
+    "image": "https://media3.giphy.com/media/sSH6wuOnGeZlC/200w.webp",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Bert",
+    "image": "https://media0.giphy.com/media/B4eHDK3gmBZNS/200w.webp",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "VM",
+    "image": "https://media1.giphy.com/media/N4GakVLNybQdy/200w.webp",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+]
